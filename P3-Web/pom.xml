@@ -12,7 +12,18 @@
 	<artifactId>P3-Web</artifactId>
 	<name>P3-Web</name>
 	<packaging>war</packaging>
-
+	
+	<repositories>
+		<repository>
+            <id>jeecg</id>
+            <name>jeecg Repository</name>
+            <url>http://maven.jeecg.org/nexus/content/repositories/jeecg</url>
+            <snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+        </repository>
+    </repositories>
+	
 	<build>
 		<plugins>
 	       <plugin>
