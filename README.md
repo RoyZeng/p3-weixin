@@ -26,6 +26,6 @@ p3-weixin
 ### Jeecg开源社区
 
 * [Jeewx 捷微管家系统-官网](http://www.jeewx.com)
-* [Jeewx 捷微-演示地址](http://www.jeewx.com/jeewx)
+* [Jeewx 捷微管家系统-演示](http://www.jeewx.com/jeewx)
 * [Jeecg 技术-论坛](http://www.jeecg.org)
 *  技术交流QQ群；413534092
