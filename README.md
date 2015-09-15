@@ -24,7 +24,10 @@ p3-weixin
 	  
 	  
 ### Jeecg开源社区
-
+	  1.微信砍价活动   P3-Biz-gzbargain
+	  
+	  
+	  
 * [Jeewx 捷微管家系统-官网](http://www.jeewx.com)
 * [Jeewx 捷微管家系统-演示](http://www.jeewx.com/jeewx)
 * [Jeecg 技术-论坛](http://www.jeecg.org)
