@@ -1,6 +1,6 @@
 Jeewx 微信插件式开发框架，适合于微信管家系统，扩展第三方插件，插件以JAR形式存在
 ==========
-p3-weixin（Jeecg开源社区 论坛：www.jeecg.org  QQ群；413534092）
+p3-weixin
 ===============
 
 微信, 插件, Java, Html5,Jeewx
@@ -21,3 +21,7 @@ p3-weixin（Jeecg开源社区 论坛：www.jeecg.org  QQ群；413534092）
     5.实现插件式开发，按照模块进行开发，每个模块可以单独达成jar包
 	6.数据库配置文件：
 	  src/main/resources/db.properties
+	  
+	  
+Jeecg开源社区 ==> 论坛：www.jeecg.org ==> QQ群；413534092
+-----------------------------------
