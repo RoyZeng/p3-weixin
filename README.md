@@ -23,5 +23,9 @@ p3-weixin
 	  src/main/resources/db.properties
 	  
 	  
-Jeewx微信管家|官网:[www.jeewx.com](http://www.jeewx.com)|QQ群；413534092
------------------------------------
+### Jeecg开源社区
+
+* [Jeewx 捷微管家系统](http://www.jeewx.com)
+* [Jeewx 捷微演示地址](http://www.jeewx.com/jeewx)
+* [Jeecg 技术论坛](http://www.jeecg.org)
+*  微信插件技术交流群：QQ群；413534092
