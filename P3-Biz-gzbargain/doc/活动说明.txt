@@ -1,3 +1,4 @@
+《微信砍价》
 活动开发地址：
    1.活动入口地址（测试数据）
      http://localhost:8080/P3-Web/gzbargain/toIndex.do?actId=actgzbargain00001&openid=${openid}&subscribe=${subscribe}
