@@ -23,11 +23,11 @@ p3-weixin
 	  src/main/resources/db.properties
 	  
 	  
-### Jeecg开源社区
+### 微信插件说明（陆续更新...）
 	  1.微信砍价活动   P3-Biz-gzbargain
 	  
 	  
-	  
+### Jeecg开源社区	  
 * [Jeewx 捷微管家系统-官网](http://www.jeewx.com)
 * [Jeewx 捷微管家系统-演示](http://www.jeewx.com/jeewx)
 * [Jeecg 技术-论坛](http://www.jeecg.org)
