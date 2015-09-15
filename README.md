@@ -23,5 +23,5 @@ p3-weixin
 	  src/main/resources/db.properties
 	  
 	  
-Jeecg开源社区 ==> 论坛：www.jeecg.org ==> QQ群；413534092
+Jeecg开源社区 | 论坛:[www.jeecg.org](http://www.jeecg.org) | QQ群；413534092
 -----------------------------------
